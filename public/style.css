@@ -1,0 +1,11 @@
+body {
+    background: #f6f7fb;
+}
+
+h1 {
+    letter-spacing: 1px;
+}
+
+form.needs-validation input:invalid {
+    border-color: #dc3545;
+}

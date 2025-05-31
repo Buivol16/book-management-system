@@ -1,0 +1,19 @@
+{
+  "name": "book-management-system",
+  "version": "0.0.1",
+  "description": "Digital Library Management System (MVC, Node.js, EJS, MongoDB, Bootstrap)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongodb": "^6.16.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
